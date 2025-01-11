@@ -9,6 +9,11 @@ This project converts live human speech into text and saves it to a text file us
 - Adds a full stop after each recognized segment.
 - Allows stopping the recording with the `Ctrl + Q` shortcut.
 
+## Note
+
+- These are extremely lightweight speech recognition models (~40mb).
+- Hence for the time being, the speech recognition may not be very accurate, use at your own discretion.
+
 ## Setup
 
 ### Prerequisites
